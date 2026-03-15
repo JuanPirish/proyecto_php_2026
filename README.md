@@ -1,7 +1,7 @@
 # Proyecto PHP
 
 ## Descripción
- Proyecto PHP es una práctica de desarrollo web que incluye un archivo PHP (`index.php`) y una imagen (`Untitled.jpeg`). Su propósito es mostrar la integración básica de PHP con contenido estático.
+ Proyecto PHP es una práctica de desarrollo web que incluye un archivo PHP `index.php` y una imagen `Untitled.jpeg`. Su propósito es mostrar la integración básica de PHP con contenido estático.
 
 ## Prerrequisitos
 - Tener instalado **PHP** 
